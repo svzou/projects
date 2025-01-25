@@ -1,1 +1,2 @@
-"hello"
+This is Akari, a logic puzzle game in which players strategically place light bulbs on a grid of cells, with the objective of illuminating all white cells while ensuring that no two bulbs shine on each other. Numbered pink cells serve as clues, indicating the required number of adjacent bulbs. The challenge lies in fully lighting the grid while adhering to these placement constraints.
+<img width="421" alt="Screenshot 2025-01-25 at 4 03 13 PM" src="https://github.com/user-attachments/assets/67487752-4b66-4042-8fa6-2462175e28ce" />
